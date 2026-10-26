@@ -1,0 +1,3 @@
+Row_Number,Employee_id,Employee_name,Issues
+6,EMP005,Komal Joshi,Missing AttendanceDate; BasicSalary cannot be negative; NetPay cannot be negative
+7,EMP006,,Missing Employee_name

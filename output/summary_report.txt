@@ -1,0 +1,12 @@
+PAYROLL DATA VALIDATION REPORT
+===================================
+Total records: 10
+Valid records: 8
+Records with issues: 2
+Total issue occurrences: 4
+
+ISSUE BREAKDOWN
+Missing AttendanceDate: 1
+BasicSalary cannot be negative: 1
+NetPay cannot be negative: 1
+Missing Employee_name: 1
